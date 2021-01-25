@@ -1,0 +1,3 @@
+everything works now.  the bucky.raw file was for some reason named bucky.raw which caused it to read bucky.raw.raw
+
+I did not attempt the extra credit.

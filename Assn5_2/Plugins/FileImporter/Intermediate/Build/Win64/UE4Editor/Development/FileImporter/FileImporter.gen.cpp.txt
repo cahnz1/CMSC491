@@ -1,0 +1,7 @@
+C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Plugins\FileImporter\Intermediate\Build\Win64\UE4Editor\Development\FileImporter\Definitions.FileImporter.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Plugins\FileImporter\Source\FileImporter/Public/FileImporter.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Source\Runtime\Engine\Classes\Engine/VolumeTexture.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VolumeTexture.generated.h
+C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Plugins\FileImporter\Intermediate\Build\Win64\UE4Editor\Inc\FileImporter\FileImporter.generated.h

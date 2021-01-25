@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-newPlugin-5789.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tzipkin\Documents\g4g2019\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Assn4\Plugins\newPlugin\Intermediate\Build\Win64\UE4Editor\Development\newPlugin\Module.newPlugin.cpp.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Assn4\Plugins\newPlugin\Intermediate\Build\Win64\UE4Editor\Development\newPlugin\Module.newPlugin.gen.cpp.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\tzipkin\Documents\g4g2019\Assn4\Plugins\newPlugin\Intermediate\Build\Win64\UE4Editor\Development\newPlugin\UE4Editor-newPlugin-5789.lib"
+/INCLUDE:IMPLEMENT_MODULE_newPlugin

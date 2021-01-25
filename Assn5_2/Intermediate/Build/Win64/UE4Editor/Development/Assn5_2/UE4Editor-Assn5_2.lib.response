@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Assn5_2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tzipkin\Documents\g4g2019\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Intermediate\Build\Win64\UE4Editor\Development\Assn5_2\Assn5_2.cpp.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Intermediate\Build\Win64\UE4Editor\Development\Assn5_2\Assn5_2GameModeBase.cpp.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Intermediate\Build\Win64\UE4Editor\Development\Assn5_2\Assn5_2.init.gen.cpp.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Intermediate\Build\Win64\UE4Editor\Development\Assn5_2\Assn5_2GameModeBase.gen.cpp.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Intermediate\Build\Win64\UE4Editor\Development\Assn5_2\UE4Editor-Assn5_2.lib"
+/INCLUDE:IMPLEMENT_MODULE_Assn5_2

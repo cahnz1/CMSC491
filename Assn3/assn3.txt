@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+Everything works.  for the video I upped the allignment force to make them more synchronised.  
+
+video link:
+
+=======
+Everything works.  for the video I upped the allignment force to make them more synchronised.  
+
+video link:
+
+>>>>>>> 5a6c408b1e594fd8379d60e1c27dc0e790c0f104
+https://www.youtube.com/watch?v=cpLhl48xCMY&feature=youtu.be

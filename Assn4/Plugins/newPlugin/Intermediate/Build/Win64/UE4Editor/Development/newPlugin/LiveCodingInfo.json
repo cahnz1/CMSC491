@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.newPlugin.cpp.obj": [
+			"newPlugin.cpp.obj",
+			"newPluginBPLibrary.cpp.obj"
+		],
+		"Module.newPlugin.gen.cpp.obj": [
+			"newPlugin.init.gen.cpp.obj",
+			"newPluginBPLibrary.gen.cpp.obj"
+		]
+	}
+}

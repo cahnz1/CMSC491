@@ -1,0 +1,7 @@
+Got everything done up until the sobel shader code.  It all works.  I wrote the  sobel code, but for some reason it is not defining the PostProcessInput1.  I cleaned up all of the code that I thought was unnesscary.  Thank you for a great semester. 
+
+Everything as been named With the word My in the title.  Ex. MyPostProcessPass, CVar, MyCvar, etc. 
+
+Here is the link to the video:
+
+https://www.youtube.com/watch?v=M23eim5ln1k

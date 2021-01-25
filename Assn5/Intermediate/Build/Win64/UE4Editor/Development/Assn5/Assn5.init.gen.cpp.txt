@@ -1,0 +1,3 @@
+C:\Users\tzipkin\Documents\g4g2019\Assn5\Intermediate\Build\Win64\UE4Editor\Development\Assn5\Definitions.Assn5.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

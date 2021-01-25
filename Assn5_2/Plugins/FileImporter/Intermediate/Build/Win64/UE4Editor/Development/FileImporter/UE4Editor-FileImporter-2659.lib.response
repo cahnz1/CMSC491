@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FileImporter-2659.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tzipkin\Documents\g4g2019\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Plugins\FileImporter\Intermediate\Build\Win64\UE4Editor\Development\FileImporter\FileImporter.cpp.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Plugins\FileImporter\Intermediate\Build\Win64\UE4Editor\Development\FileImporter\FileImporter.gen.cpp.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Plugins\FileImporter\Intermediate\Build\Win64\UE4Editor\Development\FileImporter\FileImporter.init.gen.cpp.obj"
+"C:\Users\tzipkin\Documents\g4g2019\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Plugins\FileImporter\Intermediate\Build\Win64\UE4Editor\Development\FileImporter\UE4Editor-FileImporter-2659.lib"
+/INCLUDE:IMPLEMENT_MODULE_FileImporter

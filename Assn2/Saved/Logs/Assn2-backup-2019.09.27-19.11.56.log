@@ -1,0 +1,1132 @@
+﻿Log file open, 09/27/19 15:05:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Assn2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.417690
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-0
+LogInit: Engine Version: 4.22.3-0+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-0+++UE4+Release-4.22
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Sep  5 2019 18:24:51
+LogInit: Compiled with Visual C++: 19.22.27905.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/tzipkin/Documents/g4g2019/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.27-19.05.57:676][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.27-19.05.57:676][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.27-19.05.57:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../Assn2/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.05.57:676][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../Assn2/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.05.57:677][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Assn2/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.27-19.05.57:677][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../Assn2/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.27-19.05.57:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.27-19.05.57:679][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.27-19.05.57:679][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.27-19.05.57:679][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.27-19.05.57:679][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.27-19.05.57:679][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.27-19.05.57:679][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.27-19.05.57:679][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../Assn2/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.05.57:679][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [../../../Assn2/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.05.57:688][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:688][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.27-19.05.57:688][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.27-19.05.57:688][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:689][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.27-19.05.57:689][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:689][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.27-19.05.57:689][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.27-19.05.57:689][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.27-19.05.57:689][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.27-19.05.57:689][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.27-19.05.57:689][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.27-19.05.57:689][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.27-19.05.57:689][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.27-19.05.57:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.27-19.05.57:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.27-19.05.57:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.27-19.05.57:691][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.27-19.05.57:691][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.27-19.05.57:691][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.27-19.05.57:691][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.27-19.05.57:691][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.27-19.05.57:691][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.27-19.05.57:691][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.27-19.05.57:692][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.27-19.05.57:693][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.27-19.05.57:694][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.27-19.05.57:695][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.27-19.05.57:695][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.27-19.05.57:704][  0]LogHAL: Display: Platform has ~ 16 GB [17056698368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.27-19.05.57:704][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.27-19.05.57:704][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.27-19.05.57:704][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:704][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.27-19.05.57:704][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.27-19.05.57:704][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.27-19.05.57:705][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.27-19.05.57:706][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.27-19.05.57:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.27-19.05.57:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.27-19.05.57:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.27-19.05.57:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.27-19.05.57:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.27-19.05.57:708][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.27-19.05.57:709][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.27-19.05.57:709][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.27-19.05.57:709][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.27-19.05.57:709][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.27-19.05.57:709][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.27-19.05.57:710][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.27-19.05.57:711][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.27-19.05.57:711][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.27-19.05.57:711][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.27-19.05.57:711][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.27-19.05.57:711][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.27-19.05.57:711][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.27-19.05.57:711][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Assn2/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-19.05.57:711][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.27-19.05.57:711][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.27-19.05.57:711][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.27-19.05.57:711][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.27-19.05.57:712][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.27-19.05.57:712][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Assn2/Saved/Config/Windows/Engine.ini]
+[2019.09.27-19.05.57:712][  0]LogInit: Computer: DESKTOP-MG86K4A
+[2019.09.27-19.05.57:712][  0]LogInit: User: tzipkin
+[2019.09.27-19.05.57:712][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.27-19.05.57:712][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.27-19.05.57:713][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.27-19.05.57:713][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.27-19.05.57:713][  0]LogMemory: Process Physical Memory: 85.83 MB used, 85.83 MB peak
+[2019.09.27-19.05.57:713][  0]LogMemory: Process Virtual Memory: 82.40 MB used, 82.40 MB peak
+[2019.09.27-19.05.57:713][  0]LogMemory: Physical Memory: 9856.05 MB used,  6410.48 MB free, 16266.54 MB total
+[2019.09.27-19.05.57:713][  0]LogMemory: Virtual Memory: 4619.84 MB used,  134213112.00 MB free, 134217728.00 MB total
+[2019.09.27-19.05.57:791][  0]LogInit: Using OS detected language (en-US).
+[2019.09.27-19.05.57:791][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.27-19.05.57:793][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.27-19.05.57:966][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.27-19.05.58:042][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.27-19.05.58:042][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.27-19.05.58:268][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.27-19.05.58:268][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.27-19.05.58:983][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2019.09.27-19.05.58:983][  0]LogD3D11RHI:       1983/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.27-19.05.59:009][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.09.27-19.05.59:009][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.09.27-19.05.59:016][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.27-19.05.59:016][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.27-19.05.59:016][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.27-19.05.59:053][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.27-19.05.59:053][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.27-19.05.59:053][  0]LogWindows: EnumDisplayDevices:
+[2019.09.27-19.05.59:054][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.09.27-19.05.59:054][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.09.27-19.05.59:054][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.09.27-19.05.59:055][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.09.27-19.05.59:055][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2019.09.27-19.05.59:055][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.09.27-19.05.59:055][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.09.27-19.05.59:055][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2019.09.27-19.05.59:100][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.27-19.05.59:103][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.27-19.05.59:104][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.27-19.05.59:104][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.27-19.05.59:118][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.27-19.05.59:488][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.27-19.05.59:518][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.27-19.05.59:550][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.27-19.05.59:579][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.27-19.05.59:608][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.27-19.05.59:635][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.27-19.05.59:662][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.27-19.05.59:688][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.27-19.05.59:708][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.27-19.05.59:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.27-19.05.59:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.27-19.05.59:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.27-19.05.59:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.27-19.05.59:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.27-19.05.59:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.27-19.05.59:800][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.27-19.05.59:801][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.27-19.05.59:815][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.27-19.05.59:899][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.27-19.05.59:899][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.27-19.05.59:932][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.27-19.05.59:932][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.27-19.05.59:988][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.27-19.05.59:988][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.27-19.05.59:988][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.27-19.06.00:033][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.27-19.06.00:227][  0]LogShaderCompilers: Guid format shader working directory is 35 characters bigger than the processId version (../../../Assn2/Intermediate/Shaders/WorkingDirectory/460/).
+[2019.09.27-19.06.00:227][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tzipkin/AppData/Local/Temp/UnrealShaderWorkingDir/CC30862547E6E7C14FE08B9A437D5C6A/'.
+[2019.09.27-19.06.00:229][  0]LogXGEController: Cleaning working directory: C:/Users/tzipkin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.27-19.06.00:230][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.27-19.06.00:230][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.27-19.06.00:230][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.27-19.06.00:251][  0]LogShaders: InitializeShaderTypes() begin
+[2019.09.27-19.06.00:252][  0]LogShaders: Shader directory mapping /Engine -> ../../../Engine/Shaders
+[2019.09.27-19.06.00:252][  0]LogShaders: Shader directory mapping /Plugin/DatasmithContent -> ../../../Engine/Plugins/Enterprise/DatasmithContent/Shaders
+[2019.09.27-19.06.00:252][  0]LogShaders: Shader directory mapping /Plugin/WmfMedia -> ../../../Engine/Plugins/Media/WmfMedia/Shaders
+[2019.09.27-19.06.00:252][  0]LogShaders: Shader directory mapping /Plugin/OculusVR -> ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders
+[2019.09.27-19.06.00:668][  0]LogShaders: InitializeShaderTypes() end
+[2019.09.27-19.06.00:819][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.27-19.06.00:864][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB ../../../Assn2/DerivedDataCache/Boot.ddc.
+[2019.09.27-19.06.00:864][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../Assn2/DerivedDataCache/Boot.ddc
+[2019.09.27-19.06.00:864][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../Assn2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.27-19.06.00:865][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.27-19.06.00:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.27-19.06.00:865][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2019.09.27-19.06.00:878][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2019.09.27-19.06.00:878][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.27-19.06.00:878][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.27-19.06.00:909][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.27-19.06.00:910][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.27-19.06.00:910][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.27-19.06.01:063][  0]LogAssetRegistry: FAssetRegistry took 0.0818 seconds to start up
+[2019.09.27-19.06.01:582][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.27-19.06.01:754][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.27-19.06.01:754][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.27-19.06.01:754][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.27-19.06.01:754][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.27-19.06.01:754][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.27-19.06.01:879][  0]LogNetVersion: Assn2 1.0.0, NetCL: 0, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2506206958)
+[2019.09.27-19.06.02:398][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.047530 seconds
+[2019.09.27-19.06.02:406][  0]LogUObjectArray: 42189 objects as part of root set at end of initial load.
+[2019.09.27-19.06.02:406][  0]LogUObjectAllocator: 7322048 out of 0 bytes used by permanent object pool.
+[2019.09.27-19.06.02:406][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.27-19.06.04:208][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.27-19.06.04:233][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.27-19.06.04:683][  0]SourceControl: Source control is disabled
+[2019.09.27-19.06.04:683][  0]SourceControl: Source control is disabled
+[2019.09.27-19.06.04:712][  0]SourceControl: Source control is disabled
+[2019.09.27-19.06.04:725][  0]SourceControl: Source control is disabled
+[2019.09.27-19.06.05:397][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.27-19.06.05:746][  0]LogOcInput: OculusInput pre-init called
+[2019.09.27-19.06.06:688][  0]LogEngine: Initializing Engine...
+[2019.09.27-19.06.06:689][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.27-19.06.06:690][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.27-19.06.06:915][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.27-19.06.06:959][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.27-19.06.07:061][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-19.06.07:837][  0]LogInit: FAudioDevice initialized.
+[2019.09.27-19.06.07:837][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.27-19.06.07:886][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB ../../../Assn2/DerivedDataCache/Boot.ddc.
+[2019.09.27-19.06.07:892][  0]LogInit: Texture streaming: Enabled
+[2019.09.27-19.06.07:945][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.27-19.06.07:978][  0]LogInit: Transaction tracking system initialized
+[2019.09.27-19.06.08:052][  0]BlueprintLog: New page: Editor Load
+[2019.09.27-19.06.08:400][  0]LocalizationService: Localization service is disabled
+[2019.09.27-19.06.08:942][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tzipkin/Documents/g4g2019/Assn2/Content/' took 0.01s
+[2019.09.27-19.06.08:942][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.27-19.06.08:942][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.27-19.06.09:496][  0]SourceControl: Source control is disabled
+[2019.09.27-19.06.09:496][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-19.06.09:497][  0]LightingResults: New page: Lighting Build
+[2019.09.27-19.06.09:501][  0]MapCheck: New page: Map Check
+[2019.09.27-19.06.09:501][  0]LightingResults: New page: Lighting Build
+[2019.09.27-19.06.09:526][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.09.27-19.06.09:611][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.09.27-19.06.09:616][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-19.06.09:647][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.09.27-19.06.09:647][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-19.06.09:648][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2019.09.27-19.06.09:648][  0]LogFileHelpers: Loading map 'Template_Default' took 0.152
+[2019.09.27-19.06.09:782][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.06.09:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.06.09:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.06.09:806][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-19.06.09:824][  0]LogCollectionManager: Loaded 0 collections in 0.002634 seconds
+[2019.09.27-19.06.09:843][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tzipkin/Documents/g4g2019/Assn2/Saved/Collections/' took 0.01s
+[2019.09.27-19.06.09:843][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tzipkin/Documents/g4g2019/Assn2/Content/Developers/tzipkin/Collections/' took 0.00s
+[2019.09.27-19.06.09:844][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tzipkin/Documents/g4g2019/Assn2/Content/Collections/' took 0.00s
+[2019.09.27-19.06.09:844][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.27-19.06.09:853][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2734 classes and 659 folders.
+[2019.09.27-19.06.09:863][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.27-19.06.09:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:865][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:866][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.27-19.06.09:916][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.27-19.06.09:935][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.09.27-19.06.09:955][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.27-19.06.09:957][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.27-19.06.09:966][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.27-19.06.10:078][  0]LogRenderer: Reallocating scene render targets to support 856x420 Format 10 NumSamples 1 (Frame:1).
+[2019.09.27-19.06.10:494][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.27-19.06.10:495][  0]LogLoad: (Engine Initialization) Total time: 14.64 seconds
+[2019.09.27-19.06.10:495][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.27-19.06.10:545][  0]LogAssetRegistry: Asset discovery search completed in 9.5431 seconds
+[2019.09.27-19.06.10:548][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000010 seconds (found 0 objects)
+[2019.09.27-19.06.10:548][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000270 seconds (updated 0 objects)
+[2019.09.27-19.06.10:550][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.27-19.06.12:204][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-19.06.13:639][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-19.06.14:793][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.09.27-19.06.14:794][219]Cmd: MAP LOAD FILE="../../../Assn2/Content/assn2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-19.06.14:800][219]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.27-19.06.14:837][219]LightingResults: New page: Lighting Build
+[2019.09.27-19.06.14:838][219]LoadErrors: New page: Loading map: assn2.umap
+[2019.09.27-19.06.14:841][219]MapCheck: New page: Map Check
+[2019.09.27-19.06.14:841][219]LightingResults: New page: Lighting Build
+[2019.09.27-19.06.14:868][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.09.27-19.06.14:917][219]LogAIModule: Creating AISystem for world assn2
+[2019.09.27-19.06.14:925][219]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-19.06.14:951][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.09.27-19.06.14:972][219]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-19.06.14:973][219]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2019.09.27-19.06.14:973][219]LogFileHelpers: Loading map 'assn2' took 0.179
+[2019.09.27-19.06.14:973][219]LogSlate: Window 'Open Level' being destroyed
+[2019.09.27-19.06.21:422][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.27-19.06.22:692][675]LogEditorViewport: Clicking on Actor (LMB): MyActor (MyActor1)
+[2019.09.27-19.06.24:670][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.06.24:816][779]Candidate modules for hot reload:
+[2019.09.27-19.06.24:817][779]  Assn2
+[2019.09.27-19.06.24:817][779]Building UnrealBuildTool...
+[2019.09.27-19.06.24:817][779]Building UnrealBuildTool in C:/Users/tzipkin/Documents/g4g2019/...
+[2019.09.27-19.06.24:818][779]Running: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe /nologo /verbosity:quiet "C:/Users/tzipkin/Documents/g4g2019/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj" /property:Configuration=Development /property:Platform=AnyCPU
+[2019.09.27-19.06.25:066][779]Launching UnrealBuildTool... [C:/Users/tzipkin/Documents/g4g2019/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Assn2,6022 Win64 Development -TargetType=Editor -Project="C:/Users/tzipkin/Documents/g4g2019/Assn2/Assn2.uproject" "C:/Users/tzipkin/Documents/g4g2019/Assn2/Assn2.uproject"  -IgnoreJunk]
+[2019.09.27-19.06.25:070][779]Warning: Starting HotReload took  0.3s.
+[2019.09.27-19.06.37:089][231]CompilerResultsLog: New page: Compilation - Sep 27, 2019, 11:06:37 AM
+[2019.09.27-19.06.37:089][231]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\tzipkin\Documents\g4g2019).
+[2019.09.27-19.06.37:090][231]CompilerResultsLog: Creating makefile for Assn2Editor (ini files are newer than makefile)
+[2019.09.27-19.06.37:090][231]CompilerResultsLog: Failed to delete file 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb'
+[2019.09.27-19.06.37:090][231]CompilerResultsLog:     Exception: Access to the path 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb' is denied.
+[2019.09.27-19.06.37:090][231]CompilerResultsLog: Attempting to retry...
+[2019.09.27-19.06.37:090][231]CompilerResultsLog: Failed to delete file 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb'
+[2019.09.27-19.06.37:091][231]CompilerResultsLog:     Exception: Access to the path 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb' is denied.
+[2019.09.27-19.06.37:091][231]CompilerResultsLog: Attempting to retry...
+[2019.09.27-19.06.37:091][231]CompilerResultsLog: Failed to delete file 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb'
+[2019.09.27-19.06.37:091][231]CompilerResultsLog:     Exception: Access to the path 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb' is denied.
+[2019.09.27-19.06.37:091][231]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.09.27-19.06.37:092][231]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.27-19.06.37:092][231]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.09.27-19.06.37:092][231]CompilerResultsLog:   [1/3] UE4Editor-Assn2-6022.lib
+[2019.09.27-19.06.37:092][231]CompilerResultsLog:      Creating library C:\Users\tzipkin\Documents\g4g2019\Assn2\Intermediate\Build\Win64\UE4Editor\Development\Assn2\UE4Editor-Assn2-6022.lib and object C:\Users\tzipkin\Documents\g4g2019\Assn2\Intermediate\Build\Win64\UE4Editor\Development\Assn2\UE4Editor-Assn2-6022.exp
+[2019.09.27-19.06.37:092][231]CompilerResultsLog:   [2/3] UE4Editor-Assn2-6022.dll
+[2019.09.27-19.06.37:093][231]CompilerResultsLog:      Creating library C:\Users\tzipkin\Documents\g4g2019\Assn2\Intermediate\Build\Win64\UE4Editor\Development\Assn2\UE4Editor-Assn2-6022.suppressed.lib and object C:\Users\tzipkin\Documents\g4g2019\Assn2\Intermediate\Build\Win64\UE4Editor\Development\Assn2\UE4Editor-Assn2-6022.suppressed.exp
+[2019.09.27-19.06.37:093][231]CompilerResultsLog:   [3/3] Assn2Editor.target
+[2019.09.27-19.06.37:093][231]CompilerResultsLog: Total time in Parallel executor: 2.63 seconds
+[2019.09.27-19.06.37:093][231]CompilerResultsLog: Total execution time: 11.90 seconds
+[2019.09.27-19.06.37:093][231]LogMainFrame: MainFrame: Module compiling took 12.282 seconds
+[2019.09.27-19.06.37:131][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.09.27-19.06.37:163][231]LogContentBrowser: Native class hierarchy updated for 'Assn2' in 0.0007 seconds. Added 3 classes and 2 folders.
+[2019.09.27-19.06.37:168][231]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.27-19.06.37:313][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.09.27-19.06.37:328][231]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 2735 classes and 661 folders.
+[2019.09.27-19.06.37:333][231]Display: HotReload took 12.6s.
+[2019.09.27-19.06.55:145][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.07.08:630][992]Candidate modules for hot reload:
+[2019.09.27-19.07.08:630][992]  Assn2
+[2019.09.27-19.07.08:630][992]Launching UnrealBuildTool... [C:/Users/tzipkin/Documents/g4g2019/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Assn2,3183 Win64 Development -TargetType=Editor -Project="C:/Users/tzipkin/Documents/g4g2019/Assn2/Assn2.uproject" "C:/Users/tzipkin/Documents/g4g2019/Assn2/Assn2.uproject"  -IgnoreJunk]
+[2019.09.27-19.07.08:634][992]Warning: Starting HotReload took  0.0s.
+[2019.09.27-19.07.10:630][ 89]LogHttp: Warning: 00000187F1EF8900: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.09.27-19.07.10:631][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 0 (  Trying 34.230.183.16...)
+[2019.09.27-19.07.10:631][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.09.27-19.07.10:631][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 2 (connect to 34.230.183.16 port 443 failed: Bad access)
+[2019.09.27-19.07.10:631][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 3 (  Trying 52.4.127.66...)
+[2019.09.27-19.07.10:631][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.09.27-19.07.10:631][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 5 (connect to 52.4.127.66 port 443 failed: Bad access)
+[2019.09.27-19.07.10:631][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 6 (  Trying 52.22.81.26...)
+[2019.09.27-19.07.10:631][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.09.27-19.07.10:632][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 8 (connect to 52.22.81.26 port 443 failed: Bad access)
+[2019.09.27-19.07.10:632][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 9 (  Trying 52.200.123.101...)
+[2019.09.27-19.07.10:632][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 10 (TCP_NODELAY set)
+[2019.09.27-19.07.10:632][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 11 (connect to 52.200.123.101 port 443 failed: Bad access)
+[2019.09.27-19.07.10:632][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 12 (  Trying 18.235.124.39...)
+[2019.09.27-19.07.10:632][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 13 (TCP_NODELAY set)
+[2019.09.27-19.07.10:632][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 14 (connect to 18.235.124.39 port 443 failed: Bad access)
+[2019.09.27-19.07.10:632][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 15 (  Trying 54.208.92.41...)
+[2019.09.27-19.07.10:633][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.09.27-19.07.10:633][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 17 (connect to 54.208.92.41 port 443 failed: Bad access)
+[2019.09.27-19.07.10:633][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 18 (  Trying 18.208.48.150...)
+[2019.09.27-19.07.10:633][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.09.27-19.07.10:633][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 20 (connect to 18.208.48.150 port 443 failed: Bad access)
+[2019.09.27-19.07.10:633][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 21 (  Trying 54.81.167.86...)
+[2019.09.27-19.07.10:633][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 22 (TCP_NODELAY set)
+[2019.09.27-19.07.10:633][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 23 (connect to 54.81.167.86 port 443 failed: Bad access)
+[2019.09.27-19.07.10:634][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 24 (Failed to connect to datarouter.ol.epicgames.com port 443: Bad access)
+[2019.09.27-19.07.10:634][ 89]LogHttp: Warning: 00000187F1EF8900: libcurl info message cache 25 (Closing connection 0)
+[2019.09.27-19.07.10:649][ 90]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4561EF-4655-E7E8-B982-9BB079A627DB%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.22.3-0%2B%2B%2BUE4%2BRelease-4.22&UserID=848cd26545eab0cc8a30289f28dd6e60%7C%7C8f3b939b-2959-471e-a823-b770bf3cb021&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2019.09.27-19.07.18:630][536]CompilerResultsLog: New page: Compilation - Sep 27, 2019, 11:07:18 AM
+[2019.09.27-19.07.18:631][536]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\tzipkin\Documents\g4g2019).
+[2019.09.27-19.07.18:631][536]CompilerResultsLog: Waiting for 'git status' command to complete
+[2019.09.27-19.07.18:631][536]CompilerResultsLog: Failed to delete file 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb'
+[2019.09.27-19.07.18:631][536]CompilerResultsLog:     Exception: Access to the path 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb' is denied.
+[2019.09.27-19.07.18:631][536]CompilerResultsLog: Attempting to retry...
+[2019.09.27-19.07.18:631][536]CompilerResultsLog: Failed to delete file 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb'
+[2019.09.27-19.07.18:631][536]CompilerResultsLog:     Exception: Access to the path 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb' is denied.
+[2019.09.27-19.07.18:631][536]CompilerResultsLog: Attempting to retry...
+[2019.09.27-19.07.18:632][536]CompilerResultsLog: Failed to delete file 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb'
+[2019.09.27-19.07.18:632][536]CompilerResultsLog:     Exception: Access to the path 'C:\Users\tzipkin\Documents\g4g2019\Assn2\Binaries\Win64\UE4Editor-Assn2.pdb' is denied.
+[2019.09.27-19.07.18:632][536]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.09.27-19.07.18:632][536]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.27-19.07.18:632][536]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.09.27-19.07.18:632][536]CompilerResultsLog:   [1/3] UE4Editor-Assn2-3183.lib
+[2019.09.27-19.07.18:632][536]CompilerResultsLog:      Creating library C:\Users\tzipkin\Documents\g4g2019\Assn2\Intermediate\Build\Win64\UE4Editor\Development\Assn2\UE4Editor-Assn2-3183.lib and object C:\Users\tzipkin\Documents\g4g2019\Assn2\Intermediate\Build\Win64\UE4Editor\Development\Assn2\UE4Editor-Assn2-3183.exp
+[2019.09.27-19.07.18:632][536]CompilerResultsLog:   [2/3] UE4Editor-Assn2-3183.dll
+[2019.09.27-19.07.18:632][536]CompilerResultsLog:      Creating library C:\Users\tzipkin\Documents\g4g2019\Assn2\Intermediate\Build\Win64\UE4Editor\Development\Assn2\UE4Editor-Assn2-3183.suppressed.lib and object C:\Users\tzipkin\Documents\g4g2019\Assn2\Intermediate\Build\Win64\UE4Editor\Development\Assn2\UE4Editor-Assn2-3183.suppressed.exp
+[2019.09.27-19.07.18:633][536]CompilerResultsLog:   [3/3] Assn2Editor.target
+[2019.09.27-19.07.18:633][536]CompilerResultsLog: Total time in Parallel executor: 2.53 seconds
+[2019.09.27-19.07.18:633][536]CompilerResultsLog: Total execution time: 9.87 seconds
+[2019.09.27-19.07.18:633][536]LogMainFrame: MainFrame: Module compiling took 10.009 seconds
+[2019.09.27-19.07.18:670][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.09.27-19.07.18:695][536]LogContentBrowser: Native class hierarchy updated for 'Assn2' in 0.0006 seconds. Added 3 classes and 2 folders.
+[2019.09.27-19.07.18:698][536]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.27-19.07.18:762][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.09.27-19.07.18:775][536]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2735 classes and 661 folders.
+[2019.09.27-19.07.18:780][536]Display: HotReload took 10.2s.
+[2019.09.27-19.08.05:707][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.08.20:515][750]LogEditorViewport: Clicking on Actor (LMB): MyActor (MyActor1)
+[2019.09.27-19.08.31:465][287]Cmd: DELETE
+[2019.09.27-19.08.31:465][287]Cmd: ACTOR DELETE
+[2019.09.27-19.08.31:470][287]LogEditorActor: Deleted Actor: MyActor
+[2019.09.27-19.08.31:498][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.27-19.08.31:499][287]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.09.27-19.08.33:071][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.08.33:298][392]LogEditor: Attempting to add actor of class 'MyActor' to level at -490.00,-370.00,20.00
+[2019.09.27-19.08.33:995][431]LogEditor: Attempting to add actor of class 'MyActor' to level at -260.00,-200.00,250.00
+[2019.09.27-19.08.35:640][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-19.08.35:705][531]LogRenderer: Reallocating scene render targets to support 856x488 Format 10 NumSamples 1 (Frame:1863).
+[2019.09.27-19.08.41:577][867]LogMaterial: Warning: Material /Engine/EditorLandscapeResources/FlattenHeightMat.FlattenHeightMat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.09.27-19.08.41:580][867]LogMaterial: Display: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2019.09.27-19.08.41:581][867]LogShaders: Display: 	Compiling FlattenHeightMat: Platform=PCD3D_SM5, Usage=LightingModel=MSM_Unlit, BlendMode=BLEND_Translucent, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.08.41:608][867]LogShaders: 		25 Shaders among 2 VertexFactories
+[2019.09.27-19.08.44:890][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-19.08.47:523][203]LogShaders: Warning: Blocking ProcessAsyncResults for 0.0s, processed 1 shader maps, 0 being compiled
+[2019.09.27-19.09.10:751][501]LogHttp: Warning: 00000187BBC31D00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.09.27-19.09.10:751][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.27-19.09.10:752][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 1 (  Trying 52.203.134.23...)
+[2019.09.27-19.09.10:752][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.27-19.09.10:752][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 3 (connect to 52.203.134.23 port 443 failed: Bad access)
+[2019.09.27-19.09.10:752][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 4 (  Trying 52.2.49.65...)
+[2019.09.27-19.09.10:752][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 5 (TCP_NODELAY set)
+[2019.09.27-19.09.10:752][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 6 (connect to 52.2.49.65 port 443 failed: Bad access)
+[2019.09.27-19.09.10:752][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 7 (  Trying 54.164.240.160...)
+[2019.09.27-19.09.10:753][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 8 (TCP_NODELAY set)
+[2019.09.27-19.09.10:753][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 9 (connect to 54.164.240.160 port 443 failed: Bad access)
+[2019.09.27-19.09.10:753][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 10 (  Trying 52.2.21.201...)
+[2019.09.27-19.09.10:753][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.09.27-19.09.10:753][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 12 (connect to 52.2.21.201 port 443 failed: Bad access)
+[2019.09.27-19.09.10:753][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 13 (  Trying 52.23.98.45...)
+[2019.09.27-19.09.10:753][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 14 (TCP_NODELAY set)
+[2019.09.27-19.09.10:753][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 15 (connect to 52.23.98.45 port 443 failed: Bad access)
+[2019.09.27-19.09.10:753][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 16 (  Trying 3.212.249.236...)
+[2019.09.27-19.09.10:754][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 17 (TCP_NODELAY set)
+[2019.09.27-19.09.10:754][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 18 (connect to 3.212.249.236 port 443 failed: Bad access)
+[2019.09.27-19.09.10:754][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 19 (  Trying 52.3.90.181...)
+[2019.09.27-19.09.10:754][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.09.27-19.09.10:754][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 21 (connect to 52.3.90.181 port 443 failed: Bad access)
+[2019.09.27-19.09.10:754][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 22 (  Trying 107.23.186.239...)
+[2019.09.27-19.09.10:754][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.09.27-19.09.10:754][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 24 (connect to 107.23.186.239 port 443 failed: Bad access)
+[2019.09.27-19.09.10:755][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 25 (Failed to connect to datarouter.ol.epicgames.com port 443: Bad access)
+[2019.09.27-19.09.10:755][501]LogHttp: Warning: 00000187BBC31D00: libcurl info message cache 26 (Closing connection 1)
+[2019.09.27-19.09.10:765][502]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4561EF-4655-E7E8-B982-9BB079A627DB%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.22.3-0%2B%2B%2BUE4%2BRelease-4.22&UserID=848cd26545eab0cc8a30289f28dd6e60%7C%7C8f3b939b-2959-471e-a823-b770bf3cb021&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2019.09.27-19.09.17:559][888]LogAssetEditorManager: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2019.09.27-19.09.17:566][888]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.09.17:568][888]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.17:620][888]LogShaders: 		21 Shaders among 1 VertexFactories
+[2019.09.27-19.09.17:621][888]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.09.17:917][888]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.09.17:921][888]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.09.17:922][888]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.17:942][888]LogShaders: 		21 Shaders among 1 VertexFactories
+[2019.09.27-19.09.17:946][888]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.09.18:015][888]LogSlate: Took 0.000953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.27-19.09.20:854][983]LogSlate: Window 'NewMaterial' being destroyed
+[2019.09.27-19.09.20:870][983]LogSlate: Window 'NewMaterial' being destroyed
+[2019.09.27-19.09.21:887][ 28]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-19.09.23:677][119]LogAssetEditorManager: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2019.09.27-19.09.23:691][119]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.27-19.09.23:693][119]LogShaders: Display: 	Compiling PreviewMaterial_0: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.23:725][119]LogShaders: 		21 Shaders among 1 VertexFactories
+[2019.09.27-19.09.23:725][119]LogShaders: CancelCompilation PreviewMaterial_0 
+[2019.09.27-19.09.23:825][119]LogShaders: CancelCompilation PreviewMaterial_0 
+[2019.09.27-19.09.23:833][119]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.27-19.09.23:836][119]LogShaders: Display: 	Compiling PreviewMaterial_0: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.23:868][119]LogShaders: 		21 Shaders among 1 VertexFactories
+[2019.09.27-19.09.23:869][119]LogShaders: CancelCompilation PreviewMaterial_0 
+[2019.09.27-19.09.23:878][119]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.27-19.09.23:880][119]LogShaders: Display: 	Compiling PreviewMaterial_0: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.23:910][119]LogShaders: 		21 Shaders among 1 VertexFactories
+[2019.09.27-19.09.25:329][154]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.09.26:063][180]LogShaders: Completed 1 async shader maps, 0 more pending, 1 being compiled
+[2019.09.27-19.09.26:271][189]LogShaders: CancelCompilation PreviewMaterial_0 
+[2019.09.27-19.09.26:278][189]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.27-19.09.26:280][189]LogShaders: Display: 	Compiling PreviewMaterial_0: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.26:322][189]LogShaders: 		27 Shaders among 1 VertexFactories
+[2019.09.27-19.09.26:324][189]LogShaders: CancelCompilation PreviewMaterial_0 
+[2019.09.27-19.09.26:331][189]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.27-19.09.26:332][189]LogShaders: Display: 	Compiling PreviewMaterial_0: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.26:365][189]LogShaders: 		27 Shaders among 1 VertexFactories
+[2019.09.27-19.09.26:366][189]LogShaders: CancelCompilation PreviewMaterial_0 
+[2019.09.27-19.09.26:373][189]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.27-19.09.26:375][189]LogShaders: Display: 	Compiling PreviewMaterial_0: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.26:407][189]LogShaders: 		27 Shaders among 1 VertexFactories
+[2019.09.27-19.09.26:786][203]LogShaders: Completed 1 async shader maps, 0 more pending, 1 being compiled
+[2019.09.27-19.09.27:593][231]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.09.29:286][296]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-19.09.30:914][355]LogMaterialEditor: Applying material NewMaterial
+[2019.09.27-19.09.30:915][355]LogShaders: FlushShaderFileCache() begin
+[2019.09.27-19.09.30:916][355]LogShaders: Shader directory mapping /Engine -> ../../../Engine/Shaders
+[2019.09.27-19.09.30:916][355]LogShaders: Shader directory mapping /Plugin/DatasmithContent -> ../../../Engine/Plugins/Enterprise/DatasmithContent/Shaders
+[2019.09.27-19.09.30:917][355]LogShaders: Shader directory mapping /Plugin/WmfMedia -> ../../../Engine/Plugins/Media/WmfMedia/Shaders
+[2019.09.27-19.09.30:917][355]LogShaders: Shader directory mapping /Plugin/OculusVR -> ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders
+[2019.09.27-19.09.31:791][355]LogShaders: FlushShaderFileCache() end
+[2019.09.27-19.09.31:791][355]LogShaders: CancelCompilation PreviewMaterial_0 
+[2019.09.27-19.09.31:832][355]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.27-19.09.31:833][355]LogShaders: Display: 	Compiling PreviewMaterial_0: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.31:922][355]LogShaders: 		27 Shaders among 1 VertexFactories
+[2019.09.27-19.09.31:968][355]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.09.31:970][355]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.31:995][355]LogShaders: 		28 Shaders among 1 VertexFactories
+[2019.09.27-19.09.31:998][355]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.09.32:004][355]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.09.32:005][355]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}, StaticMaterialLayers=
+[2019.09.27-19.09.32:035][355]LogShaders: 		28 Shaders among 1 VertexFactories
+[2019.09.27-19.09.32:080][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.09.27-19.09.32:099][355]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-19.09.32:103][355]LogShaders: Display: 	Compiling DebugViewMode MaterialTexCoordScale: Platform=PCD3D_SM5, Usage=FDebugViewModeMaterialProxy (MaterialTexCoordScale) NewMaterial, StaticMaterialLayers=
+[2019.09.27-19.09.32:114][355]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.09.34:792][355]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.09.27-19.09.34:792][355]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.27-19.09.34:792][355]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.09.34:792][355]LogShaders: FinishCompilation DebugViewMode MaterialTexCoordScale 2.677s
+[2019.09.27-19.09.34:795][355]TextureStreamingBuild: Display: Compiling optional shaders took 2.715 seconds.
+[2019.09.27-19.09.34:835][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.09.27-19.09.34:851][355]LogShaders: Warning: Blocking ProcessAsyncResults for 0.0s, processed 1 shader maps, 2 being compiled
+[2019.09.27-19.09.35:337][373]LogShaders: Completed 1 async shader maps, 0 more pending, 1 being compiled
+[2019.09.27-19.09.38:476][487]LogSlate: Window 'NewMaterial' being destroyed
+[2019.09.27-19.09.38:488][487]LogSlate: Window 'NewMaterial' being destroyed
+[2019.09.27-19.09.41:723][651]LogShaders: Warning: Blocking ProcessAsyncResults for 0.0s, processed 1 shader maps, 0 being compiled
+[2019.09.27-19.09.45:071][825]LogMaterial: Warning: Material /Game/NewMaterial.NewMaterial needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.09.27-19.09.45:074][825]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.09.45:075][825]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.09.45:107][825]LogShaders: 		55 Shaders among 2 VertexFactories
+[2019.09.27-19.09.58:693][578]LogShaders: Completed 1 async shader maps, 0 more pending, 0 being compiled
+[2019.09.27-19.10.06:403][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-19.10.06:435][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assn2" FILE="../../../Assn2/Content/assn2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.27-19.10.06:473][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.09.27-19.10.06:770][ 13]LogSavePackage: Moving '../../../Assn2/Saved/assn21ACE54214DB65266C97D459417EC2C8E.tmp' to '../../../Assn2/Content/assn2.umap'
+[2019.09.27-19.10.06:852][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assn2_BuiltData" FILE="../../../Assn2/Content/assn2_BuiltData.uasset" SILENT=true
+[2019.09.27-19.10.06:892][ 13]LogSavePackage: Moving '../../../Assn2/Saved/assn2_BuiltDataC84B56E94460C1800BFD49893A250FD3.tmp' to '../../../Assn2/Content/assn2_BuiltData.uasset'
+[2019.09.27-19.10.10:577][158]LogAssetEditorManager: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2019.09.27-19.10.10:586][158]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.10:587][158]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.10:615][158]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.10:616][158]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.10:699][158]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.10:706][158]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.10:708][158]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.10:739][158]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.10:741][158]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.10:748][158]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.10:749][158]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.10:782][158]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.11:241][163]LogShaders: Completed 1 async shader maps, 0 more pending, 1 being compiled
+[2019.09.27-19.10.12:699][207]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.10.15:301][300]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-19.10.18:817][433]LogShaders: Completed 1 async shader maps, 0 more pending, 0 being compiled
+[2019.09.27-19.10.18:830][434]MaterialEditorStats: Base pass shader: 112 instructions
+[2019.09.27-19.10.18:831][434]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2019.09.27-19.10.18:831][434]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.09.27-19.10.18:831][434]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-19.10.28:420][965]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.28:424][965]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.28:425][965]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.28:445][965]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.29:952][ 24]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.10.31:624][ 90]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.31:637][ 90]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.31:638][ 90]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.31:668][ 90]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.32:638][127]LogShaders: Completed 1 async shader maps, 0 more pending, 1 being compiled
+[2019.09.27-19.10.33:212][148]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.10.35:385][234]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-19.10.38:313][352]LogShaders: Completed 1 async shader maps, 0 more pending, 0 being compiled
+[2019.09.27-19.10.41:516][527]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.41:521][527]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.41:523][527]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.41:545][527]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.41:549][527]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.41:550][527]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.41:556][527]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.41:614][528]LogSlate: Took 0.000900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.27-19.10.43:497][597]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.10.45:777][682]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-19.10.49:149][808]LogShaders: Completed 1 async shader maps, 0 more pending, 1 being compiled
+[2019.09.27-19.10.49:519][824]LogShaders: Completed 1 async shader maps, 0 more pending, 0 being compiled
+[2019.09.27-19.10.50:184][861]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.50:188][861]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.50:190][861]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.50:210][861]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.50:218][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.50:219][861]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.50:224][861]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.50:237][861]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.10.51:527][909]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.10.53:243][965]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.53:255][965]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.53:257][965]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.53:268][965]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.53:299][965]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.53:305][965]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.53:306][965]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.53:335][965]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.53:355][966]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.10.53:906][987]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.53:914][987]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.53:917][987]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.53:932][987]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.53:961][987]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.53:967][987]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.53:968][987]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.53:999][987]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.54:012][987]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.54:017][987]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.54:018][987]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.54:028][987]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.54:056][987]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.10.54:057][987]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.54:064][987]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.54:065][987]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.54:097][987]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.54:110][987]LogShaders: Completed 2 async shader maps, 0 more pending, 4 being compiled
+[2019.09.27-19.10.54:185][990]LogShaders: Completed 1 async shader maps, 0 more pending, 3 being compiled
+[2019.09.27-19.10.54:666][  7]LogShaders: Completed 1 async shader maps, 0 more pending, 2 being compiled
+[2019.09.27-19.10.54:800][ 11]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.54:807][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.54:809][ 11]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.54:820][ 11]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.54:849][ 11]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.54:855][ 11]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.54:857][ 11]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.54:886][ 11]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.55:044][ 17]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.10.55:151][ 21]LogShaders: Completed 1 async shader maps, 0 more pending, 3 being compiled
+[2019.09.27-19.10.55:510][ 34]LogShaders: Completed 1 async shader maps, 0 more pending, 2 being compiled
+[2019.09.27-19.10.55:550][ 35]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.55:560][ 35]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.55:563][ 35]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.55:572][ 35]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.55:601][ 35]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.55:609][ 35]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.55:611][ 35]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.55:645][ 35]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.55:658][ 35]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.55:664][ 35]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.55:666][ 35]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.55:674][ 35]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.55:702][ 35]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.55:710][ 35]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.55:711][ 35]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.55:745][ 35]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.55:789][ 37]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.10.55:909][ 41]LogShaders: Completed 1 async shader maps, 0 more pending, 4 being compiled
+[2019.09.27-19.10.56:142][ 49]LogShaders: Completed 1 async shader maps, 0 more pending, 3 being compiled
+[2019.09.27-19.10.56:639][ 65]LogShaders: Completed 1 async shader maps, 0 more pending, 2 being compiled
+[2019.09.27-19.10.56:935][ 75]LogShaders: Completed 1 async shader maps, 0 more pending, 1 being compiled
+[2019.09.27-19.10.57:701][101]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.10.57:719][101]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.57:721][101]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.57:731][101]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.57:760][101]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.57:767][101]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.57:769][101]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.57:801][101]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.57:809][101]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.57:813][101]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.57:815][101]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.57:823][101]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.57:852][101]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.57:858][101]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.57:861][101]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.57:893][101]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.57:897][101]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.57:907][101]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.57:908][101]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.57:942][101]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.57:952][101]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.57:957][101]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.57:959][101]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.57:968][101]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.58:005][101]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.58:012][101]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.58:014][101]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.58:022][101]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.58:053][101]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.58:060][101]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.58:062][101]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.58:095][101]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.58:178][104]LogShaders: Completed 1 async shader maps, 0 more pending, 3 being compiled
+[2019.09.27-19.10.58:232][105]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.58:241][105]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.58:243][105]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.58:252][105]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.58:282][105]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.58:288][105]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.58:290][105]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.58:322][105]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.58:331][105]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.58:337][105]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.58:338][105]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.58:347][105]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.58:375][105]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.58:383][105]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.58:384][105]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.58:416][105]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.58:418][105]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.58:424][105]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.58:426][105]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.58:457][105]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.58:470][105]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.58:476][105]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.58:477][105]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.58:486][105]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.58:523][105]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.58:528][105]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.58:529][105]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.58:537][105]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.58:565][105]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.58:575][105]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.58:577][105]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.58:607][105]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.58:610][105]LogShaders: Completed 1 async shader maps, 0 more pending, 5 being compiled
+[2019.09.27-19.10.58:669][108]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.10.58:673][108]LogShaders: Completed 1 async shader maps, 0 more pending, 4 being compiled
+[2019.09.27-19.10.58:851][113]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.58:860][113]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.58:862][113]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.58:871][113]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.58:900][113]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.58:907][113]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.58:909][113]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.58:939][113]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.58:949][113]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.58:954][113]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.58:956][113]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.58:963][113]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.58:991][113]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.58:998][113]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.59:000][113]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.59:032][113]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.59:036][113]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.59:042][113]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.59:044][113]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.59:079][113]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.59:091][113]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.59:096][113]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.59:098][113]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.59:104][113]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.59:141][113]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.10.59:146][113]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.10.59:148][113]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.10.59:156][113]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.10.59:184][113]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.10.59:185][113]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.10.59:192][113]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.10.59:194][113]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.10.59:224][113]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.10.59:229][113]LogShaders: Completed 2 async shader maps, 0 more pending, 6 being compiled
+[2019.09.27-19.10.59:270][115]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.10.59:278][115]LogShaders: Completed 1 async shader maps, 0 more pending, 5 being compiled
+[2019.09.27-19.10.59:313][116]LogShaders: Completed 1 async shader maps, 0 more pending, 4 being compiled
+[2019.09.27-19.10.59:566][125]LogShaders: Completed 1 async shader maps, 0 more pending, 3 being compiled
+[2019.09.27-19.11.00:028][140]LogShaders: Completed 1 async shader maps, 0 more pending, 2 being compiled
+[2019.09.27-19.11.00:174][145]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.11.00:190][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.11.00:192][145]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.11.00:202][145]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.11.00:232][145]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.11.00:239][145]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.11.00:241][145]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.11.00:276][145]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.11.00:288][145]LogShaders: CancelCompilation FMatExpressionPreview MaterialExpressionVectorParameter_0 
+[2019.09.27-19.11.00:294][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.27-19.11.00:296][145]LogShaders: Display: 	Compiling FMatExpressionPreview MaterialExpressionVectorParameter_0: Platform=PCD3D_SM5, Usage=FMatExpressionPreview MaterialExpressionVectorParameter_0, StaticMaterialLayers=
+[2019.09.27-19.11.00:304][145]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.11.00:332][145]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.11.00:340][145]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.11.00:342][145]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.11.00:374][145]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.11.00:376][145]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.27-19.11.00:389][145]LogShaders: Completed 1 async shader maps, 0 more pending, 4 being compiled
+[2019.09.27-19.11.00:810][159]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-19.11.00:838][160]LogShaders: Warning: Blocking ProcessAsyncResults for 0.0s, processed 1 shader maps, 3 being compiled
+[2019.09.27-19.11.00:981][165]LogShaders: Completed 1 async shader maps, 0 more pending, 2 being compiled
+[2019.09.27-19.11.01:801][193]LogShaders: Completed 1 async shader maps, 0 more pending, 1 being compiled
+[2019.09.27-19.11.02:427][215]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-19.11.02:528][219]LogMaterialEditor: Applying material NewMaterial
+[2019.09.27-19.11.02:529][219]LogShaders: FlushShaderFileCache() begin
+[2019.09.27-19.11.02:530][219]LogShaders: Shader directory mapping /Engine -> ../../../Engine/Shaders
+[2019.09.27-19.11.02:531][219]LogShaders: Shader directory mapping /Plugin/DatasmithContent -> ../../../Engine/Plugins/Enterprise/DatasmithContent/Shaders
+[2019.09.27-19.11.02:531][219]LogShaders: Shader directory mapping /Plugin/WmfMedia -> ../../../Engine/Plugins/Media/WmfMedia/Shaders
+[2019.09.27-19.11.02:531][219]LogShaders: Shader directory mapping /Plugin/OculusVR -> ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders
+[2019.09.27-19.11.03:497][219]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-19.11.03:497][219]LogShaders: FlushShaderFileCache() end
+[2019.09.27-19.11.03:498][219]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.11.03:561][219]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.11.03:563][219]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.11.03:695][219]LogShaders: 		29 Shaders among 2 VertexFactories
+[2019.09.27-19.11.03:767][219]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.11.03:768][219]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.11.03:826][219]LogShaders: 		55 Shaders among 2 VertexFactories
+[2019.09.27-19.11.03:830][219]LogShaders: CancelCompilation NewMaterial 
+[2019.09.27-19.11.03:836][219]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.09.27-19.11.03:838][219]LogShaders: Display: 	Compiling NewMaterial: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=1, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={bUsedWithInstancedStaticMeshes}, StaticMaterialLayers=
+[2019.09.27-19.11.03:891][219]LogShaders: 		55 Shaders among 2 VertexFactories
+[2019.09.27-19.11.03:941][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.09.27-19.11.03:962][219]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-19.11.03:963][219]LogShaders: Display: 	Compiling DebugViewMode MaterialTexCoordScale: Platform=PCD3D_SM5, Usage=FDebugViewModeMaterialProxy (MaterialTexCoordScale) NewMaterial, StaticMaterialLayers=
+[2019.09.27-19.11.03:975][219]LogShaders: 		2 Shaders among 1 VertexFactories
+[2019.09.27-19.11.06:916][219]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.09.27-19.11.06:916][219]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.09.27-19.11.06:916][219]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.09.27-19.11.06:916][219]LogShaders: FinishCompilation DebugViewMode MaterialTexCoordScale 2.940s
+[2019.09.27-19.11.06:919][219]TextureStreamingBuild: Display: Compiling optional shaders took 2.978 seconds.
+[2019.09.27-19.11.06:961][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.09.27-19.11.06:985][219]LogShaders: Warning: Blocking ProcessAsyncResults for 0.0s, processed 2 shader maps, 1 being compiled
+[2019.09.27-19.11.08:164][259]LogSlate: Window 'NewMaterial' being destroyed
+[2019.09.27-19.11.08:192][259]LogSlate: Window 'NewMaterial' being destroyed
+[2019.09.27-19.11.10:851][391]LogHttp: Warning: 00000187E65856C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.09.27-19.11.10:851][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.27-19.11.10:851][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 1 (  Trying 34.194.74.77...)
+[2019.09.27-19.11.10:852][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.27-19.11.10:852][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 3 (connect to 34.194.74.77 port 443 failed: Bad access)
+[2019.09.27-19.11.10:852][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 4 (  Trying 52.21.102.187...)
+[2019.09.27-19.11.10:852][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 5 (TCP_NODELAY set)
+[2019.09.27-19.11.10:852][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 6 (connect to 52.21.102.187 port 443 failed: Bad access)
+[2019.09.27-19.11.10:852][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 7 (  Trying 34.195.131.10...)
+[2019.09.27-19.11.10:853][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 8 (TCP_NODELAY set)
+[2019.09.27-19.11.10:853][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 9 (connect to 34.195.131.10 port 443 failed: Bad access)
+[2019.09.27-19.11.10:853][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 10 (  Trying 52.207.206.211...)
+[2019.09.27-19.11.10:853][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.09.27-19.11.10:853][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 12 (connect to 52.207.206.211 port 443 failed: Bad access)
+[2019.09.27-19.11.10:853][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 13 (  Trying 18.204.145.10...)
+[2019.09.27-19.11.10:853][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 14 (TCP_NODELAY set)
+[2019.09.27-19.11.10:854][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 15 (connect to 18.204.145.10 port 443 failed: Bad access)
+[2019.09.27-19.11.10:854][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 16 (  Trying 34.199.205.253...)
+[2019.09.27-19.11.10:854][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 17 (TCP_NODELAY set)
+[2019.09.27-19.11.10:854][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 18 (connect to 34.199.205.253 port 443 failed: Bad access)
+[2019.09.27-19.11.10:854][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 19 (  Trying 54.173.205.129...)
+[2019.09.27-19.11.10:855][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.09.27-19.11.10:855][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 21 (connect to 54.173.205.129 port 443 failed: Bad access)
+[2019.09.27-19.11.10:855][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 22 (  Trying 34.195.0.70...)
+[2019.09.27-19.11.10:856][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.09.27-19.11.10:856][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 24 (connect to 34.195.0.70 port 443 failed: Bad access)
+[2019.09.27-19.11.10:856][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 25 (Failed to connect to datarouter.ol.epicgames.com port 443: Bad access)
+[2019.09.27-19.11.10:856][391]LogHttp: Warning: 00000187E65856C0: libcurl info message cache 26 (Closing connection 2)
+[2019.09.27-19.11.10:879][392]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4561EF-4655-E7E8-B982-9BB079A627DB%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.22.3-0%2B%2B%2BUE4%2BRelease-4.22&UserID=848cd26545eab0cc8a30289f28dd6e60%7C%7C8f3b939b-2959-471e-a823-b770bf3cb021&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2019.09.27-19.11.21:083][947]LogShaders: Completed 1 async shader maps, 0 more pending, 0 being compiled
+[2019.09.27-19.11.23:133][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-19.11.23:151][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assn2" FILE="../../../Assn2/Content/assn2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.27-19.11.23:185][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.09.27-19.11.23:428][ 60]LogSavePackage: Moving '../../../Assn2/Saved/assn265DBD95A4400BD3B8486C4B09B82CBF6.tmp' to '../../../Assn2/Content/assn2.umap'
+[2019.09.27-19.11.23:540][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assn2_BuiltData" FILE="../../../Assn2/Content/assn2_BuiltData.uasset" SILENT=true
+[2019.09.27-19.11.23:569][ 60]LogSavePackage: Moving '../../../Assn2/Saved/assn2_BuiltDataD707C88341A0DBDD266B1DBF8D7691B0.tmp' to '../../../Assn2/Content/assn2_BuiltData.uasset'
+[2019.09.27-19.11.56:179][784]LogSlate: FSceneViewport::OnFocusLost() reason 0

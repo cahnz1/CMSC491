@@ -1,0 +1,3 @@
+Im very close.  Unfortunatly I have run out of time.
+The only that is is not really working is the north south east west inputs to the tileindex function.  
+Other than that everything is working fine.

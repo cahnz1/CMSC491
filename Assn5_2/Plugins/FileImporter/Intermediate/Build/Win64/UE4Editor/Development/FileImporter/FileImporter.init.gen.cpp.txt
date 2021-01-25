@@ -1,0 +1,3 @@
+C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Plugins\FileImporter\Intermediate\Build\Win64\UE4Editor\Development\FileImporter\Definitions.FileImporter.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

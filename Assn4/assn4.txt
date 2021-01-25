@@ -1,0 +1,6 @@
+So everything is working now.  Writing the algorthim was a lttile confusing but other than that everything was pretty straight forward.
+
+For the screenshots:
+Blue noise is on the left and random is on the right
+
+I did not attempt the extra credit

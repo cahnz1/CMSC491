@@ -1,0 +1,7 @@
+C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Intermediate\Build\Win64\UE4Editor\Development\Assn5_2\Definitions.Assn5_2.h
+C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Source\Assn5_2\Assn5_2GameModeBase.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Users\tzipkin\Documents\g4g2019\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\tzipkin\Documents\g4g2019\Assn5_2\Intermediate\Build\Win64\UE4Editor\Inc\Assn5_2\Assn5_2GameModeBase.generated.h
